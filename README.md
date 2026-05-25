@@ -70,6 +70,9 @@ Game → Main loop and game logic
 ### 2. Install Pygame
 ```bash
 pip install pygame
+
+
+
 👨‍💻 Author
 
 Ismail Ahmed
