@@ -67,14 +67,19 @@ Player → Handles movement and health
 Monster → AI enemy using BFS
 Trap → Damage objects inside maze
 Game → Main loop and game logic
+
+
+
+
 ### 2. Install Pygame
 ```bash
 pip install pygame
 
-
-
+###
 👨‍💻 Author
 
 Ismail Ahmed
 - GitHub: https://github.com/ISMAIL-0wx
 - LinkedIn: https://www.linkedin.com/in/ismail-ahmed-a17820233
+
+
